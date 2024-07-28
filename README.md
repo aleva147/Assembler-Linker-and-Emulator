@@ -1,2 +1,5 @@
 # Assembler Linker and Emulator
- Created an assembly-like language and made it runnable on a 32b von Neumann architecture.
+
+
+https://github.com/user-attachments/assets/5badcc3e-af26-45e0-a3b7-d5fecadd849c
+
